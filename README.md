@@ -1,0 +1,1 @@
+# clickable-screenshots-app
